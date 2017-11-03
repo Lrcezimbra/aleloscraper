@@ -1,0 +1,4 @@
+beautifulsoup4==4.6.0
+html5lib==0.999999999
+Pillow==4.3.0
+requests==2.18.4
